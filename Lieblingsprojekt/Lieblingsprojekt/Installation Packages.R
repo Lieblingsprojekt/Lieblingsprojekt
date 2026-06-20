@@ -1,0 +1,11 @@
+# Install all required packages at once
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("lubridate")
+install.packages("scales")
+install.packages("tidyr")
+install.packages("writexl")
+install.packages("modelsummary")
+install.packages("openxlsx")
+install.packages("sandwich")
+install.packages("lmtest")
